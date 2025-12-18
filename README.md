@@ -1,4 +1,4 @@
-##GenAI-SHL-Assessment-Recommender
+## GenAI-SHL-Assessment-Recommender
 GenAI-powered assessment recommendation engine using SHL product catalog
 
 ## 🚀 Overview
