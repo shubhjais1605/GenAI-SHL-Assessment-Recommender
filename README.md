@@ -118,7 +118,7 @@ Response:
 
 ```bash
 git clone https://github.com/shubhjais1605/GenAI-SHL-Assessment-Recommender.git
-cd shl
+cd GenAI-SHL-Assessment-Recommender
 python -m venv venv
 venv\Scripts\activate   # (Windows)
 # source venv/bin/activate  # (Linux/Mac)
